@@ -1,0 +1,40 @@
+# Node modules  
+node_modules/  
+npm-debug.log  
+yarn-error.log  
+
+# Environment variables  
+.env  
+
+# Build outputs  
+dist/  
+build/  
+public/  
+
+# Operating system files  
+.DS_Store  
+Thumbs.db  
+
+# Log files  
+logs/  
+*.log  
+
+# IDE specific files  
+.vscode/  
+.idea/  
+*.sublime-workspace  
+*.sublime-project  
+
+# Coverage directory used by tools like istanbul  
+coverage/  
+
+# Dependency directories  
+jspm_packages/  
+bower_components/  
+
+# Misc  
+*.tgz  
+*.zip  
+
+# Cache  
+.cache/  
